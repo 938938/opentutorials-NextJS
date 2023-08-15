@@ -1,9 +1,8 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
     <>
-    NextJS
+      <h2>Welcome</h2>
+      Hello, WEB
     </>
-  )
+  );
 }
